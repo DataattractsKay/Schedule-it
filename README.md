@@ -1,6 +1,6 @@
 # Schedule It
 
-![Banner](baner.png)
+![Banner](fors.png)
 
 Schedule-Creator is a Python program built using the Qt Library for creating timetables for a summer camp. It aims to assist in generating schedules for groups of campers based on various constraints.
 
