@@ -30,5 +30,5 @@ Each week, the office staff manually create a schedule for each group of campers
 ### Limitations
 Sometimes, the constraints selected in the program interface may result in impossible scenarios for generating a schedule. For example, if there are more groups than available activities in a certain time slot, the schedule may be impossible to generate.
 
-### This is the max Permutation Combination that I can apply in a lifetime!🤯
+### This is the max Permutation Combination that I can apply in a lifetime! 🤯
 
