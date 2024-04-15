@@ -6,7 +6,7 @@ Schedule It is a Python program built using the Qt Library for creating timetabl
 
 ## Running The Program
 
-To run the program, simply execute the script `ui.py`.
+To run the program, simply execute the script `ui.py`
 
 ## Program Information
 
