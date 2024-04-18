@@ -11,7 +11,7 @@ To run the program, simply execute the script `ui.py`
 ## Program Information
 
 ### Purpose
-This scheduling software was developed to facilitate the creation of group schedules for campers at a summer camp. It automates the process of generating schedules based on specific constraints provided.
+This scheduling software was developed to facilitate the creation of group schedules for campers at a summer camp. It automates the process of generating schedules based on specific constraints provided
 
 ### Schedule Layout
 Each schedule consists of 6 periods: 2 in the morning and 4 in the afternoon. The morning includes 2 sports activities, while the afternoon comprises lunch, swimming, and 2 sports activities. Lunch and swimming always occur during the same period every day.
